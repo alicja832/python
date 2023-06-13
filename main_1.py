@@ -110,5 +110,5 @@ wynik.x=1
 wynik.y=1
 print(Figure.pole(a,b,c,wynik))
 print(Modulo.numer())
-#sprawdzic czy da sie wpisac w okrag?
+
 
